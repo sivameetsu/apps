@@ -51,7 +51,7 @@ jobs:
         env:
           buildId: $GITHUB_RUN_ID
         with:
-          host: "54.198.81.122"
+          host: "50.19.31.14"
           username: "ubuntu"
           key: ${{ secrets.SSH_KEY }}
           port: 22
