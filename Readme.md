@@ -16,7 +16,7 @@ This task has been divided into two parts
 
 # 1. Infra Setup - Overview
 
-#### Flask-application infra provision
+#### Python-Flask-application infra provision
 
 In this application developed by python flask framework.
 
